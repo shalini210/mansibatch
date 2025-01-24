@@ -1,0 +1,18 @@
+a
+{
+  color:white;
+}
+.sidebar
+{
+  width:25%;
+  height:85dvh;
+  background-color: orangered;
+  border:1px solid black;
+}
+.content
+{
+  width:74%;
+  height:85dvh;
+  background-color: rgb(239, 200, 128);
+
+}
