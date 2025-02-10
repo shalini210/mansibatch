@@ -14,5 +14,22 @@ a
   width:74%;
   height:85dvh;
   background-color: rgb(239, 200, 128);
-
+text-align: center;
+display: flex;
+flex-direction: column;
+padding:50px;
+box-sizing: border-box;
+}
+.services
+{
+  display: flex;
+  gap:50px;
+  flex-wrap: wrap;
+  background-color: rgb(244, 244, 206);
+}
+.service
+{
+  border:1px solid red;
+  text-align: center;
+  width: 300px;
 }
